@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @taylormao.
-👀 I’m interested in Web development
-🌱 I’m currently learning to be a better Web developer
-📫 How to reach me mds37215735@gmail.com
+- 👋 Hi, I’m @taylormao.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning to be a better Web developer
+- 📫 How to reach me mds37215735@gmail.com
